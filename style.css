@@ -425,8 +425,8 @@ button:focus-visible {
   position: relative;
 }
 .hero-logo img {
-  width: 64px;
-  height: 64px;
+  width: 80px;
+  height: 80px;
   object-fit: contain;
   display: block;
 }
