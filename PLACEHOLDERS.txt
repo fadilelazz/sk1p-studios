@@ -1,0 +1,9 @@
+Drop your replacement images here, for example:
+
+- logo.png            → studio logo (replace .hero-logo / .brand-mark placeholder)
+- og-cover.jpg         → 1200x630 social preview image (referenced in <head> og:image)
+- soviet-apartment.jpg → Product 1 card image
+- furniture-pack.jpg   → Product 2 card image
+- environment-props.jpg→ Product 3 card image
+
+Then update the corresponding <img> / og:image paths in index.html.
